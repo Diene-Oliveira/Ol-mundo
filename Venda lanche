@@ -1,0 +1,12 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		real valor_lanche, pagou_lanche,troco_lanche, subtracao
+		valor_lanche= 15
+		pagou_lanche = 20
+		subtracao= valor_lanche - pagou_lanche
+		escreva(subtracao)
+	}
+}
