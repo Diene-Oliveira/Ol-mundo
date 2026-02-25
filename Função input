@@ -1,0 +1,4 @@
+#print ("Escreva um número")
+num = int(input("Escreva um número, por favor:"))
+print("O valor digitado é:",num)
+print("A soma do valor",num, "mais 2 é:",num+2)
