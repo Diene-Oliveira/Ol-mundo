@@ -1,0 +1,4 @@
+# Leia o primeiro número
+number = int(input("diegite um número ou digite 0 para parar"))
+if number % 2 == 1:
+    print("Diga se o número digitado é par?")
